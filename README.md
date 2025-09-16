@@ -25,11 +25,11 @@ The data was sourced from Kaggle.com and contains:
 ```
 esg-financial/
 │
-├── data/                
-│   └── company_esg_financial_dataset.xlsb        # Original dataset
-│
-├── excel/                  
+├── excel/                
 │   └── company_esg_financial_dataset.xlsb        # Excel cleaning, analysis, dashboard development
+│
+├── images/                  
+│   └── company_esg_financial_dashboard.png       # Excel dashboard image
 │
 └── README.md                                     # Project overview
 ```
