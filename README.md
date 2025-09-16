@@ -36,7 +36,7 @@ esg-financial/
 ## Dashboard
 [View Dashboard](https://drive.google.com/file/d/1z7x09JXpUdeNYy8k8Z1ThsLgSZbnEsNL/view?usp=sharing)
 
-![]()
+![](https://github.com/Kaileyv/esg-financial/blob/main/company_esg_financial_dashboard.png)
 
 ## Key Insights
 * The region with the _**highest**_ average overall ESG score is _**Europe**_, while the region with the _**lowest**_ average overall ESG score is the _**Middle East**_. Interestingly enough, _**Europe**_ is among the  _**top 3 regions**_ with the _**highest**_ sum of average carbon, water, energy use, while the _**Middle East**_ is the region with the _**lowest**_  sum of average carbon, water, energy use 
