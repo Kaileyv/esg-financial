@@ -43,4 +43,4 @@ esg-financial/
 
 * The industry with the _**highest**_ average overall ESG score is _**Finance**_, while the industry with the _**lowest**_ average overall ESG score is _**Transportation**_
 
-* The _**top 3 industries**_ with the _**highest**_ average overall ESG scores are _**Finance, Technology, and Healthcare**_, respectively. They also have the _**highest**_ average profit margin.
+* The _**top 3 industries**_ with the _**highest**_ average overall ESG scores are _**Finance, Technology, and Healthcare**_, respectively. They also have the _**highest**_ average profit margin
